@@ -1,4 +1,5 @@
 import foo from 'foo';
+import foo2 from 'foo';
 
-null.prop2;
+null.prop55;
 null.prop3;
