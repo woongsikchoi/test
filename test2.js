@@ -1,6 +1,3 @@
-export function foo(x) {
-  return x.prop;
+function test() {
+  return null.prop33;
 }
-
-foo(null);
-null.prop;
